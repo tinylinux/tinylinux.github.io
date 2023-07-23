@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates" : [
+    {
+      "name" : "Vive l'ENS ! Vive la France !",
+      "sources" : [
+        "https://perso.crans.org/rlali/normalsuppixel.png"
+      ],
+      "x":1851,
+      "y":273,
+    }
+  ],
+  "whitelist":[],
+  "blacklist":[]
+}
